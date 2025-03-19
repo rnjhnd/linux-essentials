@@ -1,12 +1,12 @@
-echo "Enter your name:"
+echo -n "Enter your name: "
 read NAME
 echo ""
 
-echo "Enter your age:"
+echo -n "Enter your age: "
 read AGE
 echo ""
 
-echo "Enter your program:"
+echo -n "Enter your program: "
 read PROGRAM
 echo ""
 
