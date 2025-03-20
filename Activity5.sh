@@ -25,7 +25,7 @@ do
 done
 
 echo
-echo "#3: Rename .jpg files to .png."
+echo "#3: Rename .jpg files to .png"
 
 for file in *.jpg
 do
