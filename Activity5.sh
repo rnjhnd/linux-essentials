@@ -38,3 +38,4 @@ do
         echo "No .jpg files found."
     fi
 done
+
