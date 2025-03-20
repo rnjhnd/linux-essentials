@@ -1,6 +1,7 @@
 echo "#1: Print numbers from 1 to 10"
 
 number=1
+
 while [ "$number" -le 10 ]; 
 do
    echo "Number $number"
