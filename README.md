@@ -14,8 +14,8 @@ A collection of practical shell scripts demonstrating fundamental Linux command-
 
 **Usage**:
 ```bash
-chmod +x user_program_info.sh
-./user_program_info.sh
+chmod +x scripts/user_program_info.sh
+./scripts/user_program_info.sh
 ```
 
 **Example Output**:
@@ -38,8 +38,8 @@ Hello, John! You are 25 yrs. old & your program is Computer Science.
 
 **Usage**:
 ```bash
-chmod +x user_profile_entry.sh
-./user_profile_entry.sh
+chmod +x scripts/user_profile_entry.sh
+./scripts/user_profile_entry.sh
 ```
 
 **Example Output**:
@@ -67,8 +67,8 @@ Thank you Alice! You are 30 yrs. old & your favorite programming language is Pyt
 
 **Usage**:
 ```bash
-chmod +x grade_calculator.sh
-./grade_calculator.sh
+chmod +x scripts/grade_calculator.sh
+./scripts/grade_calculator.sh
 ```
 
 **Example Output**:
@@ -89,8 +89,8 @@ Grade B
 
 **Usage**:
 ```bash
-chmod +x loop_and_file_ops.sh
-./loop_and_file_ops.sh
+chmod +x scripts/loop_and_file_ops.sh
+./scripts/loop_and_file_ops.sh
 ```
 
 **Example Output**:
@@ -116,11 +116,13 @@ No .jpg files found.
 
 ```
 linux-essentials/
-├── user_program_info.sh          # Basic user input collection
-├── user_profile_entry.sh         # User profile information collector
-├── grade_calculator.sh           # Exam score to letter grade converter
-├── loop_and_file_ops.sh          # Loops and file operations examples
-├── Skittle.png                   # Sample image file
+├── scripts/                      # Shell scripts
+│   ├── user_program_info.sh      # Basic user input collection
+│   ├── user_profile_entry.sh     # User profile information collector
+│   ├── grade_calculator.sh       # Exam score to letter grade converter
+│   └── loop_and_file_ops.sh      # Loops and file operations examples
+├── images/                       # Project assets/images
+│   └── Skittle.png               # Sample image file
 └── README.md                     # Project documentation and setup guide
 ```
 
@@ -133,11 +135,11 @@ linux-essentials/
    ```
 3. **Make scripts executable**:
    ```bash
-   chmod +x *.sh
+chmod +x scripts/*.sh
    ```
 4. **Run any script**:
    ```bash
-   ./script_name.sh
+./scripts/script_name.sh
    ```
 ### Prerequisites
 - Linux/Unix environment or Windows Subsystem for Linux (WSL)
