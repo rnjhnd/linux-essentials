@@ -124,11 +124,7 @@ Number 9
 No .jpg files found.
 ```
 
-## 🛠️ Prerequisites
 
-- Linux/Unix environment or Windows Subsystem for Linux (WSL)
-- Bash shell
-- Basic understanding of command-line operations
 
 ## 🛠️ Installation & Setup
 
@@ -145,7 +141,11 @@ No .jpg files found.
    ```bash
    ./script_name.sh
    ```
-
+### Prerequisites
+- Linux/Unix environment or Windows Subsystem for Linux (WSL)
+- Bash shell
+- Basic understanding of command-line operations
+  
 ## 🔧 Customization
 
 Each script can be easily modified to:
