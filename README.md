@@ -130,7 +130,7 @@ No .jpg files found.
 - Bash shell
 - Basic understanding of command-line operations
 
-## 📋 Installation & Setup
+## 🛠️ Installation & Setup
 
 1. **Clone or download** this repository
 2. **Navigate** to the project directory:
