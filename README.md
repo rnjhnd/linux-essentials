@@ -135,12 +135,13 @@ linux-essentials/
    ```
 3. **Make scripts executable**:
    ```bash
-chmod +x scripts/*.sh
+   chmod +x scripts/*.sh
    ```
 4. **Run any script**:
    ```bash
-./scripts/script_name.sh
+   ./scripts/script_name.sh
    ```
+   
 ### Prerequisites
 - Linux/Unix environment or Windows Subsystem for Linux (WSL)
 - Bash shell
