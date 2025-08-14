@@ -185,10 +185,6 @@ Feel free to:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Support
-
-For questions or issues, please open an issue in the repository or contact the maintainers.
-
 ---
 
-**Happy Shell Scripting! 🐚✨**
+**Note:** This compilation serves as a foundational resource for learning Linux shell scripting. Each script demonstrates practical examples of common shell programming concepts that you'll encounter in real-world scenarios. Feel free to experiment with these scripts, modify them, and use them as building blocks for your own automation projects.
