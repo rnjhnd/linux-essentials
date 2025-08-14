@@ -2,19 +2,7 @@
 
 A collection of practical shell scripts demonstrating fundamental Linux command-line operations and shell programming concepts.
 
-## 📁 Project Structure
-
-```
-linux-essentials/
-├── README.md
-├── user_program_info.sh          # Basic user input collection
-├── user_profile_entry.sh         # User profile information collector
-├── grade_calculator.sh           # Exam score to letter grade converter
-├── loop_and_file_ops.sh          # Loops and file operations examples
-└── Skittle.png                   # Sample image file
-```
-
-## 🚀 Scripts Overview
+## 📋 Overview
 
 ### 1. `user_program_info.sh`
 **Purpose**: Collects basic user information and displays a personalized message.
@@ -124,7 +112,17 @@ Number 9
 No .jpg files found.
 ```
 
+## 📁 Project Structure
 
+```
+linux-essentials/
+├── user_program_info.sh          # Basic user input collection
+├── user_profile_entry.sh         # User profile information collector
+├── grade_calculator.sh           # Exam score to letter grade converter
+├── loop_and_file_ops.sh          # Loops and file operations examples
+├── Skittle.png                   # Sample image file
+└── README.md                     # Project documentation and setup guide
+```
 
 ## 🛠️ Installation & Setup
 
